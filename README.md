@@ -10,8 +10,7 @@ Error Handling: Includes 404 error handling for non-existent routes and 405 for 
 CORS Support: Allows frontend requests through cross-origin resource sharing (CORS).
 
 
-git clone https://github.com/your-username/welovemovies-api.git
-cd welovemovies-api
+git clone 
 Install dependencies:
 npm install
 Set up the database:
