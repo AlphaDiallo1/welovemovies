@@ -1,4 +1,4 @@
-#WeLoveMovies
+# WeLoveMovies
 
 This project is part of the WeLoveMovies capstone, designed to build a RESTful API to manage movie-related data. The backend server is built using Express.js and Knex.js to interact with a SQL-based database.
 
